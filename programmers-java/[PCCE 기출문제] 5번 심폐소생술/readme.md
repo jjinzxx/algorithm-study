@@ -25,9 +25,7 @@ cpr은 다음 문자열들이 한 번씩 포함되어 있습니다.
 <br>
 
 ### 출력 예시
-```
 |cpr|result|
 |-----|------|
 |["call", "respiration", "repeat", "check", "pressure"]|[2, 4, 5, 1, 3]|
 |["respiration", "repeat", "check", "pressure", "call"]|[4, 5, 1, 3, 2]|
-```
