@@ -33,7 +33,7 @@
 <br>
 
 ### 출력 예시
-|mode_type|humidity|val_set	result|
+|mode_type|humidity|val_set|result|
 |---|---|---|---|
 |"auto"|23|45|3|
 |"target"|41|40|1|
