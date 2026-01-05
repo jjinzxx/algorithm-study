@@ -16,10 +16,13 @@ num = [2, 4, 3, 1] 이라면
 
 연필과 책을 한 칸에 각각 겹쳐 쌓아 간단하게 
 clean_storage = ["pencil", "book"], clean_num = [9, 1] 로 만들 수 있습니다.
-
+```
+![image](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/b082d283-1d50-42bb-8e3f-4d1d2f9aaff4/pencil%20book%20javacpp.jpg)
+```
 주어진 solution 함수는 정리되기 전 창고의 물건 이름이 담긴 문자열 리스트 storage와 각 물건의 개수가 담긴 정수 리스트 num이 주어질 때, 정리된 창고에서 개수가 가장 많은 물건의 이름을 return 하는 함수입니다. 
 solution 함수가 올바르게 작동하도록 한 줄을 수정해 주세요.
 ```
+
 <br>
 
 ### 제한사항
@@ -41,4 +44,5 @@ solution 함수가 올바르게 작동하도록 한 줄을 수정해 주세요.
 |["pencil", "pencil", "pencil", "book"]|[2, 4, 3, 1]|"pencil"|
 |["doll", "doll", "doll", "doll"]|[1, 1, 1, 1]|"doll"|
 |["apple", "steel", "leaf", "apple", "leaf"]|[5, 3, 5, 3, 7]|"leaf"|
+
 |["mirror", "net", "mirror", "net", "bottle"]|[4, 1, 4, 1, 5]|"mirror"|
