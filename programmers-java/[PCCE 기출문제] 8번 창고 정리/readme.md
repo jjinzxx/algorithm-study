@@ -44,5 +44,5 @@ solution 함수가 올바르게 작동하도록 한 줄을 수정해 주세요.
 |["pencil", "pencil", "pencil", "book"]|[2, 4, 3, 1]|"pencil"|
 |["doll", "doll", "doll", "doll"]|[1, 1, 1, 1]|"doll"|
 |["apple", "steel", "leaf", "apple", "leaf"]|[5, 3, 5, 3, 7]|"leaf"|
-
 |["mirror", "net", "mirror", "net", "bottle"]|[4, 1, 4, 1, 5]|"mirror"|
+
